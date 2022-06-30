@@ -20,6 +20,6 @@
 
 
 #Ссылки на ботов для ознакомления:
-[https://t.me/Cheatbase_bot](Телеграм бот)
-[https://vk.com/mireabot](ВК бот)
+(https://t.me/Cheatbase_bot)[Телеграм бот]
+(https://vk.com/mireabot)[ВК бот]
 
