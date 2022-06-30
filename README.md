@@ -1,3 +1,2 @@
-# Mirea_bot_show
-public code for telegram->vk bot
+# Mirea Бот
 [![GitHub Banner](./assets/wrapper_for_github.png)]
