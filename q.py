@@ -210,7 +210,7 @@ async def verification(message: types.Message,state: FSMContext):
 			if sql_server.sql_server.sql_check_base_vkid(int(code)) == True:
 				await bot.send_message(message.chat.id ,text="Этот vk id уже существует", reply_markup=markup5)
 			else:
-				TOKEN = "6f0615c45ee9909a061b28c258052b8fb1de0cde7e8e94113df0e6a59ceb8fe7b06dc3884287b96d7beca"
+				TOKEN = "" #VK Group Token
 				vk_session = vk_api.VkApi(token=TOKEN)
 				vk = vk_session.get_api()
 				ids = vk.users.get(user_ids=code)[0]
