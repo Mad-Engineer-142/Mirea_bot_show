@@ -1,4 +1,4 @@
-![GitHub Banner](./assets/wrapper_for_github.png)
+![GitHub Banner](./assets/wrapper_for_github_logo.png)
 
 Проект разработан для учащихся вуза РТУ МИРЕА и Колледжа Програмирования и Кибербезопасности
 
