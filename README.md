@@ -4,9 +4,9 @@
 
 ___
 # Ссылки на ботов для ознакомления:
->[![Телеграм бот](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Cheatbase_bot)
+>[![Телеграм бот](https://t.me/Cheatbase_bot)
 >
->[![ВК бот](https://vkcom.github.io/icons/#24/logo_vk_color)](https://vk.com/mireabot)
+>[![ВК бот](https://vk.com/mireabot)
 ___
 
 # Основная цель проекта:
